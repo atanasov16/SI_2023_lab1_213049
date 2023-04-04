@@ -1,0 +1,264 @@
+commit ee1430aee1217ede54a9505a3f2d700154e78448 (HEAD -> master, origin/master, origin/bug3, bug3)
+Merge: 2d3f9e7 5ecf45c
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:11:31 2023 +0200
+
+    Merge branch 'bug3' of https://github.com/atanasov16/SI_2023_lab1_213049 into bug3
+
+commit 2d3f9e7fa908adcd17aaee58ce4296e615431920
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:01:45 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 8acb1f5d8b4a24d160c16ec26bfed8e577119744
+Merge: 3d51b1c b16ae46
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:04:19 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 5ecf45cc1a1a49ed95a1c7ea6cf4af8d19fa7f2e
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:01:45 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit b16ae464c4cb307d6b9ebad3f3af550fee37890b (origin/bug2, bug2)
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:00:38 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 3d51b1cb71ccdcce682de29fab9e28d4ece06163 (origin/bug1, bug1)
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Tue Apr 4 23:58:47 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 34650649d5432c6c25138f177f984af71b2190f1
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Tue Apr 4 23:22:02 2023 +0200
+:
+commit ee1430aee1217ede54a9505a3f2d700154e78448 (HEAD -> master, origin/master, origin/bug3, bug3)
+Merge: 2d3f9e7 5ecf45c
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:11:31 2023 +0200
+
+    Merge branch 'bug3' of https://github.com/atanasov16/SI_2023_lab1_213049 into bug3
+
+commit 2d3f9e7fa908adcd17aaee58ce4296e615431920
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:01:45 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 8acb1f5d8b4a24d160c16ec26bfed8e577119744
+Merge: 3d51b1c b16ae46
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:04:19 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 5ecf45cc1a1a49ed95a1c7ea6cf4af8d19fa7f2e
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:01:45 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit b16ae464c4cb307d6b9ebad3f3af550fee37890b (origin/bug2, bug2)
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:00:38 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 3d51b1cb71ccdcce682de29fab9e28d4ece06163 (origin/bug1, bug1)
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Tue Apr 4 23:58:47 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 34650649d5432c6c25138f177f984af71b2190f1
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Tue Apr 4 23:22:02 2023 +0200
+:
+commit ee1430aee1217ede54a9505a3f2d700154e78448 (HEAD -> master, origin/master, origin/bug3, bug3)
+Merge: 2d3f9e7 5ecf45c
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:11:31 2023 +0200
+
+    Merge branch 'bug3' of https://github.com/atanasov16/SI_2023_lab1_213049 into bug3
+
+commit 2d3f9e7fa908adcd17aaee58ce4296e615431920
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:01:45 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 8acb1f5d8b4a24d160c16ec26bfed8e577119744
+Merge: 3d51b1c b16ae46
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:04:19 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 5ecf45cc1a1a49ed95a1c7ea6cf4af8d19fa7f2e
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:01:45 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit b16ae464c4cb307d6b9ebad3f3af550fee37890b (origin/bug2, bug2)
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:00:38 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 3d51b1cb71ccdcce682de29fab9e28d4ece06163 (origin/bug1, bug1)
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Tue Apr 4 23:58:47 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 34650649d5432c6c25138f177f984af71b2190f1
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Tue Apr 4 23:22:02 2023 +0200
+
+    Add java class
+
+commit 76077f85c589c08f968b74d2b817e288ade14625
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Tue Apr 4 23:14:15 2023 +0200
+
+    Initial commit
+(END)
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:01:45 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 8acb1f5d8b4a24d160c16ec26bfed8e577119744
+Merge: 3d51b1c b16ae46
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:04:19 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 5ecf45cc1a1a49ed95a1c7ea6cf4af8d19fa7f2e
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:01:45 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit b16ae464c4cb307d6b9ebad3f3af550fee37890b (origin/bug2, bug2)
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:00:38 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 3d51b1cb71ccdcce682de29fab9e28d4ece06163 (origin/bug1, bug1)
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Tue Apr 4 23:58:47 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 34650649d5432c6c25138f177f984af71b2190f1
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Tue Apr 4 23:22:02 2023 +0200
+
+    Add java class
+
+commit 76077f85c589c08f968b74d2b817e288ade14625
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Tue Apr 4 23:14:15 2023 +0200
+
+    Initial commit
+(END)
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:01:45 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 8acb1f5d8b4a24d160c16ec26bfed8e577119744
+Merge: 3d51b1c b16ae46
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:04:19 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 5ecf45cc1a1a49ed95a1c7ea6cf4af8d19fa7f2e
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:01:45 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit b16ae464c4cb307d6b9ebad3f3af550fee37890b (origin/bug2, bug2)
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:00:38 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 3d51b1cb71ccdcce682de29fab9e28d4ece06163 (origin/bug1, bug1)
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Tue Apr 4 23:58:47 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 34650649d5432c6c25138f177f984af71b2190f1
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Tue Apr 4 23:22:02 2023 +0200
+
+    Add java class
+
+commit 76077f85c589c08f968b74d2b817e288ade14625
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Tue Apr 4 23:14:15 2023 +0200
+
+    Initial commit
+~
+~
+~
+~
+(END)
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:01:45 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 8acb1f5d8b4a24d160c16ec26bfed8e577119744
+Merge: 3d51b1c b16ae46
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:04:19 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 5ecf45cc1a1a49ed95a1c7ea6cf4af8d19fa7f2e
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:01:45 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit b16ae464c4cb307d6b9ebad3f3af550fee37890b (origin/bug2, bug2)
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Wed Apr 5 00:00:38 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 3d51b1cb71ccdcce682de29fab9e28d4ece06163 (origin/bug1, bug1)
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Tue Apr 4 23:58:47 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 34650649d5432c6c25138f177f984af71b2190f1
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Tue Apr 4 23:22:02 2023 +0200
+
+    Add java class
+
+commit 76077f85c589c08f968b74d2b817e288ade14625
+Author: atanasov16 <116266217+atanasov16@users.noreply.github.com>
+Date:   Tue Apr 4 23:14:15 2023 +0200
+
+    Initial commit
+(END)
