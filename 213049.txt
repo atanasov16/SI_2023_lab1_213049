@@ -41,3 +41,7 @@
 25.	$ git merge bug3 - nema konflikti > fast forward
 26.	$ git push - nema potreba od --force
 27.	$ git log
+	$ git add 213049.txt
+	$ git add logs.txt
+	$ git commit -m "Final commit"
+28.	$ git push --all - sinhroniziranje na site granki vo dalecniot repo
